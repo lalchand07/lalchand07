@@ -1,69 +1,18 @@
-💫 About Me:
-👋 Hi, I’m Lal Chand
+# 💫 About Me:
+👋 Hi, I'm Lal Chand<br><br>AI Workflow Automation Expert | n8n & Make.com Specialist<br><br>Most businesses waste 15-25 hours weekly on repetitive tasks that AI can handle automatically.<br><br>I design and build intelligent automation systems using n8n, Make.com, and advanced AI that eliminate manual work, connect your tools, and run your operations 24/7.<br><br>With 5+ years of software engineering experience and deep expertise in AI workflow automation, I help ambitious businesses scale faster without hiring more people.<br><br>💼 WHAT I BUILD<br><br>🤖 n8n & Make.com Workflows<br>   • Multi-step automation pipelines connecting CRMs, databases, APIs, and business tools<br>   • Real-time data syncing with conditional logic and error handling<br>   • Complex webhook systems and API integrations<br><br>🧠 AI-Powered Business Automations<br>   • GPT-4o, Claude 3.5, Gemini integration into workflows<br>   • RAG (Retrieval-Augmented Generation) systems for context-aware AI<br>   • LangChain workflows for document processing and intelligent agents<br><br>💬 Conversational AI & Chatbots<br>   • WhatsApp Business API chatbots with memory and context<br>   • Voice AI agents using Retell, ElevenLabs, and Vapi<br>   • Customer support bots reducing ticket volume by 60%+<br><br>📱 Content & Marketing Automation<br>   • Automated social media posting pipelines<br>   • AI-generated content systems<br>   • RSS-to-social workflows publishing daily without human input<br><br>📊 RESULTS THAT MATTER<br><br>✅ 20+ Production Automation Workflows Deployed<br>✅ 15-30 Hours Saved Weekly Per Client<br>✅ 100% Job Success Score on Upwork<br>✅ 68% Average Reduction in Manual Work<br><br>🎯 RECENT CLIENT WINS<br><br>→ E-commerce startup: Built n8n order processing system → 40% faster fulfillment<br>→ Marketing agency: Automated social posting workflow → 25 hours saved weekly<br>→ SaaS company: RAG-powered chatbot reduced support tickets by 68%<br>→ Content creator: AI workflow generating 50+ posts/week automatically<br><br>🛠️ TECHNICAL STACK<br><br>Automation: n8n (expert) | Make.com | Zapier<br>AI Integration: OpenAI API | Claude API | Gemini | LangChain | RAG<br>Development: Node.js | Python | JavaScript | REST APIs | Webhooks<br>Databases: PostgreSQL | MongoDB | MySQL | Pinecone | Chroma<br>Voice & Chat: Retell | ElevenLabs | Vapi | WhatsApp Cloud API<br>Business Tools: Airtable | Notion | Google Workspace | HubSpot<br><br>💡 WHY BUSINESSES HIRE ME<br><br>✓ Strategy-first approach: I solve business problems, not just connect APIs<br>✓ Production-ready code: Scalable, documented, maintainable systems<br>✓ Fast delivery: Working prototypes in 48-72 hours<br>✓ Expert-level n8n: Complex logic, error handling, webhook architecture<br>✓ AI specialization: LLMs, RAG systems, intelligent agents<br><br>🚀 LET'S AUTOMATE YOUR BUSINESS<br><br>I'm always interested in collaborating on AI automation projects, building intelligent workflows, or discussing how to eliminate manual work from your business.<br><br>"Automation isn't about replacing humans — it's about freeing them to do what they do best."
 
-AI Workflow Automation Expert | n8n & Make.com Specialist
 
-Most businesses waste 15-25 hours weekly on repetitive tasks that AI can handle automatically.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lalchand11001) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lalchand11001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lalchand11001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalchand07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LALCHAN23884723) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalchand.professional@gmail.com) 
 
-I design and build intelligent automation systems using n8n, Make.com, and advanced AI that eliminate manual work, connect your tools, and run your operations 24/7.
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lalchand07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lalchand07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalchand07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-With 5+ years of software engineering experience and deep expertise in AI workflow automation, I help ambitious businesses scale faster without hiring more people.
+---
+[![](https://visitcount.itsvg.in/api?id=lalchand07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💼 WHAT I BUILD
-
-🤖 n8n & Make.com Workflows
-• Multi-step automation pipelines connecting CRMs, databases, APIs, and business tools
-• Real-time data syncing with conditional logic and error handling
-• Complex webhook systems and API integrations
-
-🧠 AI-Powered Business Automations
-• GPT-4o, Claude 3.5, Gemini integration into workflows
-• RAG (Retrieval-Augmented Generation) systems for context-aware AI
-• LangChain workflows for document processing and intelligent agents
-
-💬 Conversational AI & Chatbots
-• WhatsApp Business API chatbots with memory and context
-• Voice AI agents using Retell, ElevenLabs, and Vapi
-• Customer support bots reducing ticket volume by 60%+
-
-📱 Content & Marketing Automation
-• Automated social media posting pipelines
-• AI-generated content systems
-• RSS-to-social workflows publishing daily without human input
-
-📊 RESULTS THAT MATTER
-
-✅ 20+ Production Automation Workflows Deployed
-✅ 15-30 Hours Saved Weekly Per Client
-✅ 100% Job Success Score on Upwork
-✅ 68% Average Reduction in Manual Work
-
-🎯 RECENT CLIENT WINS
-
-→ E-commerce startup: Built n8n order processing system → 40% faster fulfillment
-→ Marketing agency: Automated social posting workflow → 25 hours saved weekly
-→ SaaS company: RAG-powered chatbot reduced support tickets by 68%
-→ Content creator: AI workflow generating 50+ posts/week automatically
-
-🛠️ TECHNICAL STACK
-
-Automation: n8n (expert) | Make.com | Zapier
-AI Integration: OpenAI API | Claude API | Gemini | LangChain | RAG
-Development: Node.js | Python | JavaScript | REST APIs | Webhooks
-Databases: PostgreSQL | MongoDB | MySQL | Pinecone | Chroma
-Voice & Chat: Retell | ElevenLabs | Vapi | WhatsApp Cloud API
-Business Tools: Airtable | Notion | Google Workspace | HubSpot
-
-💡 WHY BUSINESSES HIRE ME
-
-✓ Strategy-first approach: I solve business problems, not just connect APIs
-✓ Production-ready code: Scalable, documented, maintainable systems
-✓ Fast delivery: Working prototypes in 48-72 hours
-✓ Expert-level n8n: Complex logic, error handling, webhook architecture
-✓ AI specialization: LLMs, RAG systems, intelligent agents
-
-🚀 LET’S AUTOMATE YOUR BUSINESS
-
-I’m always interested in collaborating on AI automation projects, building intelligent workflows, or discussing how to eliminate manual work from your business.
-
-“Automation isn’t about replacing humans — it’s about freeing them to do what they do best.”
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
