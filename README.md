@@ -91,108 +91,84 @@ results:
 
 ## 🌍 Live Travel Agency Portfolio
 
-> **12+ live travel & Hajj/Umrah booking websites** built and deployed by me — all currently running in production serving real customers across the UK & worldwide.
+> **12+ live travel & Hajj/Umrah booking websites** built and deployed by me — all currently running in production across the UK & worldwide.
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="https://www.zippyholidays.co.uk/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.zippyholidays.co.uk/" width="100%" alt="Zippy Holidays" /><br/>
-    <b>🏖️ Zippy Holidays</b>
-  </a><br/>
-  <sub>Holiday packages • UK</sub>
+  <h3>🏖️ <a href="https://www.zippyholidays.co.uk/" target="_blank">Zippy Holidays</a></h3>
+  <sub>Holiday Packages • UK</sub><br/>
+  <code>zippyholidays.co.uk</code>
 </td>
 <td align="center" width="33%">
-  <a href="https://www.getumrahtrip.co.uk/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.getumrahtrip.co.uk/" width="100%" alt="Get Umrah Trip" /><br/>
-    <b>🕋 Get Umrah Trip</b>
-  </a><br/>
-  <sub>Umrah packages • UK</sub>
+  <h3>🕋 <a href="https://www.getumrahtrip.co.uk/" target="_blank">Get Umrah Trip</a></h3>
+  <sub>Umrah Packages • UK</sub><br/>
+  <code>getumrahtrip.co.uk</code>
 </td>
 <td align="center" width="33%">
-  <a href="https://www.trippytour.co.uk/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.trippytour.co.uk/" width="100%" alt="Trippy Tour" /><br/>
-    <b>✈️ Trippy Tour</b>
-  </a><br/>
-  <sub>Tour bookings • UK</sub>
+  <h3>✈️ <a href="https://www.trippytour.co.uk/" target="_blank">Trippy Tour</a></h3>
+  <sub>Tour Bookings • UK</sub><br/>
+  <code>trippytour.co.uk</code>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-  <a href="https://www.trippyholidays.co.uk/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.trippyholidays.co.uk/" width="100%" alt="Trippy Holidays" /><br/>
-    <b>🌴 Trippy Holidays</b>
-  </a><br/>
-  <sub>Holiday packages • UK</sub>
+  <h3>🌴 <a href="https://www.trippyholidays.co.uk/" target="_blank">Trippy Holidays</a></h3>
+  <sub>Holiday Packages • UK</sub><br/>
+  <code>trippyholidays.co.uk</code>
 </td>
 <td align="center" width="33%">
-  <a href="https://www.hajjumrahpackage.com/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.hajjumrahpackage.com/" width="100%" alt="Hajj Umrah Package" /><br/>
-    <b>🕋 Hajj Umrah Package</b>
-  </a><br/>
-  <sub>Hajj & Umrah • Global</sub>
+  <h3>🕋 <a href="https://www.hajjumrahpackage.com/" target="_blank">Hajj Umrah Package</a></h3>
+  <sub>Hajj & Umrah • Global</sub><br/>
+  <code>hajjumrahpackage.com</code>
 </td>
 <td align="center" width="33%">
-  <a href="https://www.hajjumrahhub.com/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.hajjumrahhub.com/" width="100%" alt="Hajj Umrah Hub" /><br/>
-    <b>🕌 Hajj Umrah Hub</b>
-  </a><br/>
-  <sub>Hajj & Umrah • Global</sub>
+  <h3>🕌 <a href="https://www.hajjumrahhub.com/" target="_blank">Hajj Umrah Hub</a></h3>
+  <sub>Hajj & Umrah • Global</sub><br/>
+  <code>hajjumrahhub.com</code>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-  <a href="https://www.flightsvault.co.uk/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.flightsvault.co.uk/" width="100%" alt="Flights Vault" /><br/>
-    <b>✈️ Flights Vault</b>
-  </a><br/>
-  <sub>Flight bookings • UK</sub>
+  <h3>✈️ <a href="https://www.flightsvault.co.uk/" target="_blank">Flights Vault</a></h3>
+  <sub>Flight Bookings • UK</sub><br/>
+  <code>flightsvault.co.uk</code>
 </td>
 <td align="center" width="33%">
-  <a href="https://www.bismillahtravel.co.uk/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.bismillahtravel.co.uk/" width="100%" alt="Bismillah Travel" /><br/>
-    <b>🌙 Bismillah Travel</b>
-  </a><br/>
-  <sub>Full travel agency • UK</sub>
+  <h3>🌙 <a href="https://www.bismillahtravel.co.uk/" target="_blank">Bismillah Travel</a></h3>
+  <sub>Full Travel Agency • UK</sub><br/>
+  <code>bismillahtravel.co.uk</code>
 </td>
 <td align="center" width="33%">
-  <a href="https://www.bestfly.co.uk/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.bestfly.co.uk/" width="100%" alt="Best Fly" /><br/>
-    <b>🛫 Best Fly</b>
-  </a><br/>
-  <sub>Flight bookings • UK</sub>
+  <h3>🛫 <a href="https://www.bestfly.co.uk/" target="_blank">Best Fly</a></h3>
+  <sub>Flight Bookings • UK</sub><br/>
+  <code>bestfly.co.uk</code>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-  <a href="https://www.alhateemtours.com/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.alhateemtours.com/" width="100%" alt="Al Hateem Tours" /><br/>
-    <b>🌍 Al Hateem Tours</b>
-  </a><br/>
-  <sub>Religious tours • Global</sub>
+  <h3>🌍 <a href="https://www.alhateemtours.com/" target="_blank">Al Hateem Tours</a></h3>
+  <sub>Religious Tours • Global</sub><br/>
+  <code>alhateemtours.com</code>
 </td>
 <td align="center" width="33%">
-  <a href="https://www.alharmaintravel.co.uk/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.alharmaintravel.co.uk/" width="100%" alt="Al Harmain Travel" /><br/>
-    <b>🕋 Al Harmain Travel</b>
-  </a><br/>
-  <sub>Hajj & Umrah • UK</sub>
+  <h3>🕋 <a href="https://www.alharmaintravel.co.uk/" target="_blank">Al Harmain Travel</a></h3>
+  <sub>Hajj & Umrah • UK</sub><br/>
+  <code>alharmaintravel.co.uk</code>
 </td>
 <td align="center" width="33%">
-  <a href="https://www.alhamdtravel.com/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/crop/800/https://www.alhamdtravel.com/" width="100%" alt="Al Hamd Travel" /><br/>
-    <b>🌟 Al Hamd Travel</b>
-  </a><br/>
-  <sub>Full travel agency • Global</sub>
+  <h3>🌟 <a href="https://www.alhamdtravel.com/" target="_blank">Al Hamd Travel</a></h3>
+  <sub>Full Travel Agency • Global</sub><br/>
+  <code>alhamdtravel.com</code>
 </td>
 </tr>
 </table>
 
 </div>
 
-> 💡 *Preview thumbnails auto-generated via `thum.io` — they refresh from the live sites on every page load.*
+> 🎯 *Each site is live, search-optimised, and built with booking systems, payment integration, and admin dashboards. Click any to visit.*
 
 ---
 
@@ -282,7 +258,7 @@ results:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lalchand07/lalchand07/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lalchand07/lalchand07/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation - 387+ contributions" src="https://raw.githubusercontent.com/lalchand07/lalchand07/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/lalchand07/lalchand07/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <sub>🟢 Each square = a real contribution day from my GitHub graph. The snake eats them live as the workflow refreshes every 12 hours.</sub>
@@ -345,22 +321,39 @@ results:
 ---
 
 <!-- ============================================= -->
-<!-- 📊 GITHUB STATS (with fallback mirrors) 📊 -->
+<!-- 📊 GITHUB ANALYTICS (Reliable Services) 📊 -->
 <!-- ============================================= -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/lalchand07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalchand07&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&cache_seconds=86400" alt="lalchand07's GitHub stats" />
-</a>
-<a href="https://github.com/lalchand07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalchand07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&cache_seconds=86400" alt="Top Languages" />
+### 📈 Profile Summary
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalchand07&theme=tokyo_night" alt="Profile Summary" />
 </a>
 
 <br/>
 
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lalchand07&theme=tokyo_night" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalchand07&theme=tokyo_night" alt="Most Used Language" />
+</a>
+
+<br/>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalchand07&theme=tokyo_night" alt="Repos per Language" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lalchand07&theme=tokyo_night&utcOffset=5" alt="Productive Time" />
+</a>
+
+<br/>
+
+### 🔥 Streak Stats
 <a href="https://github.com/lalchand07">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=lalchand07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b00&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </a>
