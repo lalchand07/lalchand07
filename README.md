@@ -1,110 +1,214 @@
 <!-- ============================================= -->
-<!-- 🎨 ANIMATED HEADER WITH WAVE EFFECT 🎨 -->
+<!-- 🎨 ANIMATED HEADER BANNER 🎨 -->
 <!-- ============================================= -->
 
 <div align="center">
-  
-<a href="https://github.com/lalchand07">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Lal%20Chand&fontSize=80&fontAlignY=35&desc=AI%20Workflow%20Automation%20Expert%20%7C%20n8n%20%26%20Make.com%20Specialist&descAlignY=55&descSize=18&animation=twinkling&fontColor=fff" alt="header"/>
-</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Lal%20Chand&fontSize=70&fontAlignY=35&desc=Travel%20Agency%20Websites%20%2B%20WhatsApp%20AI%20Booking%20Bots&descAlignY=55&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="Lal Chand - Travel Agency Websites + WhatsApp AI Booking Bots" />
 
 <!-- ============================================= -->
-<!-- 🎯 TYPING ANIMATION 🎯 -->
+<!-- ⌨️ TYPING ANIMATION ⌨️ -->
 <!-- ============================================= -->
 
-<a href="https://github.com/lalchand07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Lal+Chand;AI+%26+Automation+Architect+%F0%9F%A4%96;n8n+%7C+Make.com+%7C+LangChain+%7C+RAG+Expert;I+Build+Systems+That+Run+Your+Business+24%2F7+%E2%9A%A1" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Lal+Chand;I+build+travel-agency+websites+%E2%9C%88%EF%B8%8F;with+WhatsApp+AI+booking+bots+%F0%9F%92%AC;%2B+n8n+%26+Make.com+automation+systems+%E2%9A%A1" alt="Hi I'm Lal Chand - I build travel agency websites with WhatsApp AI booking bots" />
 
 <br/>
 
 <!-- ============================================= -->
-<!-- 📊 PROFILE VIEWS, FOLLOWERS, STARS BADGES 📊 -->
+<!-- 📊 STAT BADGES 📊 -->
 <!-- ============================================= -->
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=lalchand07&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/lalchand07?label=Followers&style=for-the-badge&color=00d9ff&labelColor=000" alt="followers" />
-  <img src="https://img.shields.io/github/stars/lalchand07?label=Stars&style=for-the-badge&color=00d9ff&labelColor=000" alt="stars" />
-  <a href="https://www.upwork.com/freelancers/lalchand07">
-    <img src="https://img.shields.io/badge/Upwork-100%25%20Job%20Success-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="upwork" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=lalchand07&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/lalchand07?label=Followers&style=for-the-badge&color=00d9ff&labelColor=000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/lalchand07?label=Stars&style=for-the-badge&color=00d9ff&labelColor=000" alt="Stars" />
+  <img src="https://img.shields.io/badge/Travel%20Sites%20Built-12+-EA4B71?style=for-the-badge&logo=airplay&logoColor=white" alt="Travel Sites Built: 12+" />
+  <img src="https://img.shields.io/badge/Upwork-100%25%20Job%20Success-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork: 100% Job Success" />
 </p>
 
 </div>
 
+---
+
 <!-- ============================================= -->
-<!-- 🐍 ANIMATED SNAKE EATING CONTRIBUTIONS 🐍 -->
+<!-- 🎯 WHAT I DO 🎯 -->
 <!-- ============================================= -->
 
-<div align="center">
-  
-### 🐍 Watch My Contributions Get Eaten!
+## ✈️ What I Build
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lalchand07/lalchand07/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lalchand07/lalchand07/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/lalchand07/lalchand07/output/github-contribution-grid-snake.svg" />
-</picture>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-</div>
+### 🌍 Travel Agency Websites with WhatsApp AI Booking Bots
+
+I build **complete booking systems** for travel agencies — from the website all the way to the AI agent that talks to customers on WhatsApp and books trips for them automatically, 24/7.
+
+**The full system includes:**
+
+- 🖥️ **Modern travel website** — Next.js / WordPress with package listings, search, payment
+- 💬 **WhatsApp AI booking bot** — answers questions, suggests destinations, takes bookings
+- 🧠 **RAG-powered knowledge base** — bot knows every package, hotel, visa rule, and price
+- 📅 **Calendar & booking sync** — auto-creates entries in Google Calendar / your CRM
+- 💳 **Payment links** — Stripe / Wise / local gateways sent inside WhatsApp
+- 📧 **Auto-confirmation emails + tickets** — sent the second a booking completes
+- 🌐 **Multi-language support** — Urdu, English, Arabic, Hindi — anything
+
+> *"Your agents stop answering 'kya rate hai Dubai ka?' at 2am — the bot does it.  
+> You wake up to filled bookings."*
+
+</td>
+<td width="40%" valign="top">
 
 <br/>
 
-<!-- ============================================= -->
-<!-- 💫 ABOUT ME SECTION 💫 -->
-<!-- ============================================= -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ```yaml
-name: Lal Chand
-role: AI Workflow Automation Expert
-location: 🌍 Working with clients worldwide
-focus: 🤖 n8n • Make.com • LangChain • RAG • LLMs
-experience: 5+ years software engineering
-mission: |
-  "Automation isn't about replacing humans —
-   it's about freeing them to do what
-   they do best."
+booking_system:
+  frontend: Next.js + Tailwind
+  bot: WhatsApp Cloud API
+  brain: GPT-4o + RAG
+  orchestration: n8n
+  database: Postgres / Supabase
+  payments: Stripe + Wise
+  storage: Pinecone (vector)
 
-currently_building:
-  - 🚀 Production AI agents with memory
-  - 🧠 RAG systems for context-aware bots
-  - 📞 Voice AI with Retell & ElevenLabs
-  - 💬 WhatsApp Cloud API chatbots
-
-stats:
-  workflows_deployed: 20+
-  hours_saved_weekly: 15-30 per client
-  manual_work_reduced: 68%
-  job_success: 100%
-
-open_to:
-  - 🤝 Automation consulting
-  - 🔧 n8n/Make.com builds
-  - 🧪 AI integration projects
+results:
+  ⚡ 24/7 bookings
+  💬 60% fewer agent hours
+  📈 3x lead-to-booking rate
+  🌙 Sleep through the night
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- ============================================= -->
-<!-- 🛠️ WHAT I BUILD 🛠️ -->
+<!-- 🌍 LIVE TRAVEL PORTFOLIO 🌍 -->
 <!-- ============================================= -->
 
-## 💼 What I Build
+## 🌍 Live Travel Agency Portfolio
+
+> **12+ live travel & Hajj/Umrah booking websites** built and deployed by me — all currently running in production serving real customers across the UK & worldwide.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.zippyholidays.co.uk/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.zippyholidays.co.uk/" width="100%" alt="Zippy Holidays" /><br/>
+    <b>🏖️ Zippy Holidays</b>
+  </a><br/>
+  <sub>Holiday packages • UK</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.getumrahtrip.co.uk/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.getumrahtrip.co.uk/" width="100%" alt="Get Umrah Trip" /><br/>
+    <b>🕋 Get Umrah Trip</b>
+  </a><br/>
+  <sub>Umrah packages • UK</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.trippytour.co.uk/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.trippytour.co.uk/" width="100%" alt="Trippy Tour" /><br/>
+    <b>✈️ Trippy Tour</b>
+  </a><br/>
+  <sub>Tour bookings • UK</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.trippyholidays.co.uk/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.trippyholidays.co.uk/" width="100%" alt="Trippy Holidays" /><br/>
+    <b>🌴 Trippy Holidays</b>
+  </a><br/>
+  <sub>Holiday packages • UK</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.hajjumrahpackage.com/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.hajjumrahpackage.com/" width="100%" alt="Hajj Umrah Package" /><br/>
+    <b>🕋 Hajj Umrah Package</b>
+  </a><br/>
+  <sub>Hajj & Umrah • Global</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.hajjumrahhub.com/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.hajjumrahhub.com/" width="100%" alt="Hajj Umrah Hub" /><br/>
+    <b>🕌 Hajj Umrah Hub</b>
+  </a><br/>
+  <sub>Hajj & Umrah • Global</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.flightsvault.co.uk/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.flightsvault.co.uk/" width="100%" alt="Flights Vault" /><br/>
+    <b>✈️ Flights Vault</b>
+  </a><br/>
+  <sub>Flight bookings • UK</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.bismillahtravel.co.uk/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.bismillahtravel.co.uk/" width="100%" alt="Bismillah Travel" /><br/>
+    <b>🌙 Bismillah Travel</b>
+  </a><br/>
+  <sub>Full travel agency • UK</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.bestfly.co.uk/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.bestfly.co.uk/" width="100%" alt="Best Fly" /><br/>
+    <b>🛫 Best Fly</b>
+  </a><br/>
+  <sub>Flight bookings • UK</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.alhateemtours.com/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.alhateemtours.com/" width="100%" alt="Al Hateem Tours" /><br/>
+    <b>🌍 Al Hateem Tours</b>
+  </a><br/>
+  <sub>Religious tours • Global</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.alharmaintravel.co.uk/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.alharmaintravel.co.uk/" width="100%" alt="Al Harmain Travel" /><br/>
+    <b>🕋 Al Harmain Travel</b>
+  </a><br/>
+  <sub>Hajj & Umrah • UK</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.alhamdtravel.com/" target="_blank">
+    <img src="https://image.thum.io/get/width/600/crop/800/https://www.alhamdtravel.com/" width="100%" alt="Al Hamd Travel" /><br/>
+    <b>🌟 Al Hamd Travel</b>
+  </a><br/>
+  <sub>Full travel agency • Global</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+> 💡 *Preview thumbnails auto-generated via `thum.io` — they refresh from the live sites on every page load.*
+
+---
+
+<!-- ============================================= -->
+<!-- 🤖 BEYOND TRAVEL 🤖 -->
+<!-- ============================================= -->
+
+## 🤖 Beyond Travel — Other Things I Automate
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 n8n & Make.com Workflows
+### ⚡ n8n & Make.com Workflows
 - Multi-step automation pipelines
-- CRM, database, and API integrations
+- CRM, database & API integrations
 - Real-time data syncing
 - Conditional logic & error handling
 - Complex webhook architectures
@@ -148,15 +252,16 @@ open_to:
 ---
 
 <!-- ============================================= -->
-<!-- 🎯 RESULTS THAT MATTER 🎯 -->
+<!-- 🎯 CLIENT WINS 🎯 -->
 <!-- ============================================= -->
 
-## 🎯 Recent Client Wins
+## 🏆 Recent Client Wins
 
 <div align="center">
 
 | 🏢 Client Type | 🛠️ Solution Built | 📈 Result |
 |:---:|:---:|:---:|
+| ✈️ **Travel Agency** | Website + WhatsApp AI booking bot | 🌙 **24/7 bookings** while owner sleeps |
 | 🛒 **E-commerce Startup** | n8n order processing system | ⚡ **40% faster** fulfillment |
 | 📣 **Marketing Agency** | Automated social posting | ⏰ **25 hours** saved weekly |
 | 💻 **SaaS Company** | RAG-powered support chatbot | 🎯 **68% fewer** tickets |
@@ -167,7 +272,27 @@ open_to:
 ---
 
 <!-- ============================================= -->
-<!-- 🧰 TECH STACK WITH SKILL ICONS 🧰 -->
+<!-- 🐍 SNAKE EATING CONTRIBUTIONS 🐍 -->
+<!-- ============================================= -->
+
+<div align="center">
+
+### 🐍 Watch The Snake Eat My Real Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lalchand07/lalchand07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lalchand07/lalchand07/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation - 387+ contributions" src="https://raw.githubusercontent.com/lalchand07/lalchand07/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>🟢 Each square = a real contribution day from my GitHub graph. The snake eats them live as the workflow refreshes every 12 hours.</sub>
+
+</div>
+
+---
+
+<!-- ============================================= -->
+<!-- 🧰 TECH STACK 🧰 -->
 <!-- ============================================= -->
 
 ## 🧰 Tech Stack & Tools
@@ -176,49 +301,43 @@ open_to:
 
 ### ⚡ Automation & AI
 <p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
 </p>
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,java,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,java,cpp,html,css" alt="Languages" />
 </p>
 
-### 🚀 Frameworks & Runtimes
+### 🚀 Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react,redux,express,django,flask,fastapi,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react,redux,express,django,flask,fastapi,laravel" alt="Frameworks" />
 </p>
 
-### 🗄️ Databases & Storage
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase,firebase" alt="Databases" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,nginx,apache,git,github,gitlab,bitbucket" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,nginx,apache,git,github,gitlab,bitbucket,wordpress" alt="Cloud and DevOps" />
 </p>
 
-### 🧪 Testing & Tools
+### 🧪 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,jest,figma,photoshop,notion" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
-### 🧠 AI/ML Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postman,jest,figma,photoshop,notion" alt="Tools" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=black" alt="Puppeteer" />
+  <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 </div>
@@ -226,7 +345,7 @@ open_to:
 ---
 
 <!-- ============================================= -->
-<!-- 📊 GITHUB STATS WITH ANIMATIONS 📊 -->
+<!-- 📊 GITHUB STATS (with fallback mirrors) 📊 -->
 <!-- ============================================= -->
 
 ## 📊 GitHub Analytics
@@ -234,18 +353,22 @@ open_to:
 <div align="center">
 
 <a href="https://github.com/lalchand07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalchand07&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="lalchand07's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalchand07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalchand07&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&cache_seconds=86400" alt="lalchand07's GitHub stats" />
+</a>
+<a href="https://github.com/lalchand07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalchand07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&cache_seconds=86400" alt="Top Languages" />
 </a>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=lalchand07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b00&currStreakLabel=00d9ff" alt="GitHub Streak" />
+<a href="https://github.com/lalchand07">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=lalchand07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b00&currStreakLabel=00d9ff" alt="GitHub Streak" />
+</a>
 
 <br/>
 
 ### 🏆 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/lalchand07">
   <img src="https://github-profile-trophy.vercel.app/?username=lalchand07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="trophies" />
 </a>
 
@@ -274,6 +397,7 @@ open_to:
 + ✓ Fast delivery — Working prototypes in 48-72 hours
 + ✓ Expert n8n — Complex logic, error handling, webhook architecture
 + ✓ AI specialization — LLMs, RAG systems, intelligent agents
++ ✓ Travel niche expert — 12+ live booking sites, I know the flow inside out
 ```
 
 </div>
@@ -281,39 +405,39 @@ open_to:
 ---
 
 <!-- ============================================= -->
-<!-- 🌐 CONNECT WITH ME 🌐 -->
+<!-- 🌐 CONNECT 🌐 -->
 <!-- ============================================= -->
 
-## 🌐 Let's Connect & Automate Your Business
+## 🌐 Let's Build Something Together
 
 <div align="center">
 
 <a href="https://linkedin.com/in/lalchand07">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:lalchand.professional@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://x.com/LALCHAN23884723">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 <a href="https://discord.gg/lalchand11001">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://facebook.com/lalchand11001">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://instagram.com/lalchand11001">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <br/><br/>
 
-### 💬 Open to: Automation Consulting • n8n/Make.com Builds • AI Integrations
+### 💬 Open To: Travel Booking Systems • WhatsApp AI Bots • n8n Builds • AI Integrations
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Got+a+repetitive+task%3F+Let's+automate+it.+%E2%9A%A1;Building+intelligent+systems+that+run+24%2F7+%F0%9F%A4%96;Save+15-30+hours+weekly+with+smart+workflows+%E2%9C%A8" alt="closing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Need+a+travel+website+with+a+WhatsApp+bot%3F+%E2%9C%88%EF%B8%8F;Tired+of+answering+the+same+questions+at+2am%3F+%F0%9F%8C%99;Let's+automate+it.+Forever.+%E2%9A%A1" alt="Closing tagline" />
 
 </div>
 
@@ -325,8 +449,8 @@ open_to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" alt="Thanks for visiting" />
 
-<sub>⭐ From <a href="https://github.com/lalchand07">Lal Chand</a> — "Automation isn't about replacing humans — it's about freeing them to do what they do best."</sub>
+<sub>⭐ From <b>Lal Chand</b> — "Automation isn't about replacing humans — it's about freeing them to do what they do best."</sub>
 
 </div>
