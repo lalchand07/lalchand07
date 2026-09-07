@@ -1,66 +1,85 @@
-<p align="center">
-  <img src="https://codicsystems.com/assets/img/logos/codic-systems.jpg" width="320" alt="Codic Systems">
-</p>
+<h1 align="center">Lal Chand</h1>
 
 <p align="center">
-  <strong>Software engineering company.</strong><br>
-  Web applications, operations systems, integrations and AI automation.<br>
+  <strong>I build booking and operations systems for travel companies.</strong><br>
   Islamabad, Pakistan · Working with clients in the UK, Europe and the Gulf
 </p>
 
 <p align="center">
   <a href="https://codicsystems.com">codicsystems.com</a> ·
-  CUIN 0352637 ·
-  NTN J778998 ·
-  PSEB Z-25-21973/26
+  <a href="https://lalchand.online">lalchand.online</a> ·
+  <a href="https://linkedin.com/in/lalchand07">LinkedIn</a>
 </p>
+
+---
+
+Six years of booking platforms, quoting systems, supplier integrations and
+back-office software. Before that, a year leading a team on Pakistan's federal
+e-procurement platform — tenders, evaluations, contracts and payment gateway
+integration, on a system that runs statutory processes and cannot quietly be
+wrong.
+
+I also co-own a UK travel company, so I run the systems I build from the
+operator's side rather than only the vendor's. That is most of why I know which
+parts of these platforms get built badly.
+
+I deliver client work through **[Codic Systems](https://codicsystems.com)**, a
+registered software company in Islamabad.
+
+---
+
+### What I work on
+
+**Travel systems** — booking and reservation flows, quoting, supplier and fare
+API integration, operations and back-office software. Two travel CRMs of mine
+are in production, running real businesses daily.
+
+**Integrations** — payment gateways, WhatsApp Business API, e-signature,
+accounting. The interesting part is never the happy path; it is what happens
+when a supplier changes their API without telling anyone.
+
+**AI workflows** — extraction, routing and automation with n8n and the Claude
+API. Built so the model handles the reading and a human owns any decision that
+creates an obligation.
+
+### Open source
+
+Published through [@codicsystems](https://github.com/codicsystems):
+
+| | |
+|---|---|
+| **travel-whatsapp-booking-bot** | n8n workflow for inbound travel enquiries, with the webhook signature verification most tutorials skip |
+| **pk-it-export-toolkit** | The paperwork Pakistani companies need when invoicing clients abroad |
+| **redmoon-pdf** | Client-side PDF compression — no upload, no server |
+| **travel-tech-learning-path** | How travel booking systems actually work, for engineers about to build one |
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API">
+</p>
+
+### Also
+
+I taught people to code for six years — 21 five-star reviews, including six
+months getting a 52-year-old career changer through a bootcamp he had
+previously failed. It is why I can explain a technical decision to someone who
+does not write software, which turns out to matter more than most of the stack
+above.
+
+---
 
 <p align="center">
-  <sub>Verify us on the
-  <a href="https://eservices.secp.gov.pk/eServices/NameSearch.jsp">SECP company register</a>
-  — search <b>CODIC SYSTEMS</b>.</sub>
+  <sub>
+    Open to: travel booking systems · operations software · integrations ·
+    AI workflows<br>
+    <a href="mailto:hello@codicsystems.com">hello@codicsystems.com</a>
+  </sub>
 </p>
-
----
-
-## What we build
-
-Codic Systems builds the systems businesses are organised around — booking and
-reservation platforms, operations and back-office software, integrations, and
-the AI workflows that sit around them.
-
-Our specialism is travel. Our founder runs a UK travel company, which means we
-have been the business whose day stops when the booking system stops.
-
-## What's here
-
-The client systems we build are private. What we publish here is the part that
-is useful to everyone else — tools, templates and reference material from the
-work we do.
-
-| Repository | What it is |
-|---|---|
-| [**travel-whatsapp-booking-bot**](https://github.com/codicsystems/travel-whatsapp-booking-bot) | An n8n workflow that reads inbound WhatsApp travel enquiries, extracts the details a consultant actually needs, replies to fill the gaps, and hands anything complex to a person. Verifies Meta's webhook signature, which most tutorials skip. |
-| [**pk-it-export-toolkit**](https://github.com/codicsystems/pk-it-export-toolkit) | Templates and checklists for Pakistani companies invoicing clients abroad — the paperwork that decides whether your export income is taxed at the concessional rate or not. |
-| [**redmoon-pdf**](https://github.com/codicsystems/redmoon-pdf) | Compress a PDF to an exact target size, in the browser. The file never leaves your device — no upload, no server. |
-| [**travel-tech-learning-path**](https://github.com/codicsystems/travel-tech-learning-path) | How travel booking and operations systems actually work, written for engineers about to build one. |
-
-## How we work
-
-- Written specification before any code, with an explicit list of what is **not** included
-- Built in weekly increments you can open and click
-- Tested where being wrong costs money
-- Documented as it is written, and handed over so another engineer could take it the next morning
-- Fixed price against a defined outcome. We do not bill hours
-
-## Get in touch
-
-Something to build, or a system that needs rescuing?
-
-[codicsystems.com](https://codicsystems.com) · hello@codicsystems.com
-
----
-
-<sub>Codic Systems (SMC-Private) Limited · CUIN 0352637 · NTN J778998 ·
-Incorporated 27 August 2026, CRO Islamabad ·
-<a href="https://eservices.secp.gov.pk/eServices/NameSearch.jsp">Verify on the SECP register</a></sub>
