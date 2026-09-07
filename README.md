@@ -133,10 +133,12 @@ stack section above.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalchand07&show_icons=true&hide_border=true&title_color=12A17A&text_color=8899BB&icon_color=12A17A&bg_color=030D4E&include_all_commits=true" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalchand07&layout=compact&hide_border=true&title_color=12A17A&text_color=8899BB&bg_color=030D4E&langs_count=8" height="165" alt="Top languages">
+  <sub>
+    Two travel CRMs in production · A national e-procurement platform ·
+    21 five-star teaching reviews<br>
+    <a href="https://eservices.secp.gov.pk/eServices/NameSearch.jsp">Verify Codic Systems on the SECP register</a> — search <b>CODIC SYSTEMS</b>
+  </sub>
 </p>
-
 ---
 
 <p align="center">
