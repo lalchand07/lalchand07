@@ -80,6 +80,6 @@ above.
   <sub>
     Open to: travel booking systems · operations software · integrations ·
     AI workflows<br>
-    <a href="mailto:hello@codicsystems.com">hello@codicsystems.com</a>
+    <a href="mailto:info@codicsystems.com">info@codicsystems.com</a>
   </sub>
 </p>
