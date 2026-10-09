@@ -108,7 +108,7 @@
       </g>
 
       <text x="0" y="215" fill="#7e8aab" font-size="14" font-weight="400" letter-spacing="0.4" opacity="0">
-        Islamabad, Pakistan  ·  Open to projects in the UK, Europe, the Gulf and North America
+        Islamabad, Pakistan  ·  Open to projects
         <animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.1s" fill="freeze"/>
       </text>
 
